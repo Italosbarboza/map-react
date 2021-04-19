@@ -75,7 +75,8 @@ export default function LatestSales() {
   <div style= {{width: '80vw', height: '100vh'}}>
     <WrappedMap
      googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&
-    libraries=geometry,drawing,places&key= AIzaSyDragFl8lssbgGchWJfn8FrAgkDlWoh_TM`}
+    libraries=geometry,drawing,places&key= `}
+    //Observa-se que aqui tem-se que colocar sua chave gerada no google
      loadingElement={<div style={{ height: "100%" }} />}
      containerElement= {<div style={{ height: "100%" }} />}
      mapElement= {<div style={{ height: "100%" }} />}
