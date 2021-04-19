@@ -1,5 +1,11 @@
 <h1>react-google-maps</h1> Este é um projeto exemplo de como utilizar o sistema de mapas do google para demarcar hidrantes de uma determinada região de acordo com sua latitude e longitude.
 
+## Pré requisitos
+
+1) Node(https://nodejs.org/)
+
+2) Yarn(https://yarnpkg.com/)
+
 ## Scripts
 
 Para rodar o projeto, basta utilizar os seguintes comandos:
